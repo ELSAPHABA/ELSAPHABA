@@ -82,7 +82,7 @@
 | [DCinside-Scraper](https://github.com/ELSAPHABA/DCinside-Scraper) | 디시인사이드 게시글·댓글 수집, CLI·MCP 인터페이스 | Python, BeautifulSoup, Polars, Docker, MCP |
 | [Daangn Donate Hunter](https://github.com/ELSAPHABA/Daangn_Donate_Hunter) | 당근마켓 나눔 상품 탐색 및 알림 봇 | Python, BeautifulSoup, Telegram, Docker |
 | [NewPost Notification Bot](https://github.com/ELSAPHABA/NewPost_Telegram_Notification_Bot) | 웹 게시글 모니터링 및 알림 자동화. Raspberry Pi 운영 CI/CD | Python, Telegram, Docker, GitHub Actions |
-| [AdGuard Waker](https://github.com/ELSAPHABA/AdGuard-Waker) | 상주 서비스 없이 Android 시스템 스케줄러로 동작하는 경량 자동화 앱 | Kotlin, Android SDK, Gradle, GitHub Actions |
+| [AdGuard Waker](https://github.com/ELSAPHABA/AdGuard-Waker) | Tasker 대용 주기적 AdGuard 활성화 초경량 어플리케이션 | Kotlin, Android SDK, Gradle, GitHub Actions |
 
 ## In Progress
 
