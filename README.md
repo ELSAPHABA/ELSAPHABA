@@ -65,9 +65,9 @@ AWS: ECS Fargate, VPC, ALB, Route 53, CloudFront, S3, RDS, ElastiCache, EventBri
 | Project | Overview | Key Technologies |
 | --- | --- | --- |
 | [DocSuri](https://github.com/ELSAPHABA/DocSuri) · Team Project | AI 학술 논문 탐색 플랫폼. 하이브리드 검색, 논문 수집 파이프라인 및 클라우드 인프라 구성 | AWS, CDK, FastAPI, Next.js, OpenSearch, Bedrock |
-| [FMKorea Scraper](https://github.com/ELSAPHABA/FMKorea-Scraper-Scrapling) | 게시글·댓글 수집기. 비동기 수집, 작업 재개, 중복 제거, CLI·MCP 인터페이스 | Python, Scrapling, Polars, Docker, MCP |
-| [Daangn Donate Hunter](https://github.com/ELSAPHABA/Daangn_Donate_Hunter) | 조건 기반 상품 모니터링 및 사용자별 중복 방지 알림 봇 | Python, BeautifulSoup, Telegram, Docker |
-| [NewPost Notification Bot](https://github.com/ELSAPHABA/NewPost_Telegram_Notification_Bot) | 웹 게시글 모니터링 및 알림 자동화. Raspberry Pi 대상 CI/CD 구성 | Python, Telegram, Docker, GitHub Actions |
+| [FMKorea Scraper](https://github.com/ELSAPHABA/FMKorea-Scraper-Scrapling) | 에펨코리아 게시글·댓글 수집, Anti-Detect, CLI·MCP 인터페이스 | Python, Scrapling, Polars, Docker, MCP |
+| [Daangn Donate Hunter](https://github.com/ELSAPHABA/Daangn_Donate_Hunter) | 당근마켓 나눔 상품 탐색 및 알림 봇 | Python, BeautifulSoup, Telegram, Docker |
+| [NewPost Notification Bot](https://github.com/ELSAPHABA/NewPost_Telegram_Notification_Bot) | 웹 게시글 모니터링 및 알림 자동화. Raspberry Pi 운영 CI/CD | Python, Telegram, Docker, GitHub Actions |
 | [Community API](https://github.com/ELSAPHABA/2-hong-community-be) / [Chat Server](https://github.com/ELSAPHABA/2-hong-chat-be) | 커뮤니티 REST API 및 Redis Pub/Sub 기반 실시간 채팅 | FastAPI, MySQL, MongoDB, Redis, WebSocket |
 | [AdGuard Waker](https://github.com/ELSAPHABA/AdGuard-Waker) | 상주 서비스 없이 Android 시스템 스케줄러로 동작하는 경량 자동화 앱 | Kotlin, Android SDK, Gradle, GitHub Actions |
 
@@ -75,7 +75,7 @@ AWS: ECS Fargate, VPC, ALB, Route 53, CloudFront, S3, RDS, ElastiCache, EventBri
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| [Auto-Axe](https://github.com/ELSAPHABA/Auto-Axe) | 시장 데이터 수집 및 조건 기반 알고리즘 매매 시스템 | 데이터 수집 PoC · 시스템 설계 |
-| [DockVue](https://github.com/ELSAPHABA/DocVue) | 영상 구간별 Docker 실습 환경 복원과 AI Harness를 결합한 개발자 교육 플랫폼 | 아키텍처 · 기능 명세 설계 |
+| [Auto-Axe](https://github.com/ELSAPHABA/Auto-Axe) | 시장 데이터 수집 및 조건 기반 알고리즘 매매 NH나무증권 퀀트 | 데이터 수집 PoC · 시스템 설계 |
+| [DockVue](https://github.com/ELSAPHABA/DocVue) | 영상 구간별 컨테이너 실습 환경 복원과 AI Harness를 결합한 개발자 교육 플랫폼 | 아키텍처 · 기능 명세 설계 |
 
 [All repositories](https://github.com/ELSAPHABA?tab=repositories)
