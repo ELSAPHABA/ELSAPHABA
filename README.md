@@ -66,7 +66,7 @@ AWS: ECS Fargate, VPC, ALB, Route 53, CloudFront, S3, RDS, ElastiCache, EventBri
 | Project | Overview | Key Technologies |
 | --- | --- | --- |
 | [DocSuri](https://github.com/ELSAPHABA/DocSuri) · Team Project | AI 학술 논문 탐색 플랫폼. 하이브리드 검색, 논문 수집 파이프라인 및 클라우드 인프라 구성 | AWS, CDK, FastAPI, Next.js, OpenSearch, Bedrock |
-| [FMKorea Scraper](https://github.com/ELSAPHABA/FMKorea-Scraper-Scrapling) | 에펨코리아 게시글·댓글 수집, Anti-Detect, CLI·MCP 인터페이스 | Python, Scrapling, Polars, Docker, MCP |
+| [FMKorea Scraper](https://github.com/ELSAPHABA/FMKorea-Scraper-Scrapling) | 에펨코리아 게시글·댓글 수집, Anti-Detect, CLI·MCP 인터페이스 | Python, [Scrapling](https://github.com/D4Vinci/Scrapling), Polars, Docker, MCP |
 | [Daangn Donate Hunter](https://github.com/ELSAPHABA/Daangn_Donate_Hunter) | 당근마켓 나눔 상품 탐색 및 알림 봇 | Python, BeautifulSoup, Telegram, Docker |
 | [NewPost Notification Bot](https://github.com/ELSAPHABA/NewPost_Telegram_Notification_Bot) | 웹 게시글 모니터링 및 알림 자동화. Raspberry Pi 운영 CI/CD | Python, Telegram, Docker, GitHub Actions |
 | [Community API](https://github.com/ELSAPHABA/2-hong-community-be) / [Chat Server](https://github.com/ELSAPHABA/2-hong-chat-be) | 커뮤니티 REST API 및 Redis Pub/Sub 기반 실시간 채팅 | FastAPI, MySQL, MongoDB, Redis, WebSocket |
