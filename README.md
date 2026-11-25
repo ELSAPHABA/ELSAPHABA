@@ -73,6 +73,25 @@
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-374151?style=flat-square)
 
+**IoT**
+
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
+![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat-square&logo=esphome&logoColor=white)
+
+**Hardware**
+
+![ATmega](https://img.shields.io/badge/ATmega-CC0000?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+**Virtualization (VM)**
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
+![ESXi](https://img.shields.io/badge/ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+
 ## Featured Projects
 
 | Project | Overview | Key Technologies |
