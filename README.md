@@ -41,7 +41,19 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-AWS: ECS Fargate, VPC, ALB, Route 53, CloudFront, S3, RDS, ElastiCache, EventBridge, SQS, Bedrock
+**AWS Services**
+
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-ED7100?style=flat-square)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square)
+![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=flat-square)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square)
+![S3](https://img.shields.io/badge/S3-7AA116?style=flat-square)
+![RDS](https://img.shields.io/badge/RDS-3B48CC?style=flat-square)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-3B48CC?style=flat-square)
+![EventBridge](https://img.shields.io/badge/EventBridge-E7157B?style=flat-square)
+![SQS](https://img.shields.io/badge/SQS-E7157B?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Bedrock-01A88D?style=flat-square)
 
 **Database & Search**
 
