@@ -9,6 +9,7 @@
 
 - **Web Scraping & Data Engineering** — 비동기 수집, 브라우저 자동화, 데이터 파이프라인, 중복 제거 및 체크포인트 기반 재처리
 - **Automation & Self-hosting** — 이벤트 모니터링, 알림 봇, OS 자동화, 컨테이너 기반 서비스 운영
+- **Anti-Detect** - CAPTCHA Bypass, Stealth Browsing, 봇 탐지 회피
 - **Cloud & DevOps** — AWS 아키텍처, IaC, CI/CD, 고가용성, 비용 최적화 및 Graceful Degradation
 - **Backend & Distributed Systems** — REST API, WebSocket, Pub/Sub, 캐싱, 비동기 메시징
 - **AI Engineering** — LLM·임베딩 기반 검색, MCP, AI Agent 및 Harness 설계
