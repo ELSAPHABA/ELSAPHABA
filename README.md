@@ -90,6 +90,7 @@
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square)
 ![ESXi](https://img.shields.io/badge/ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 
 ## Featured Projects
 
